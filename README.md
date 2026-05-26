@@ -17,3 +17,8 @@ The analysis was conducted in four stages:
 ## Outcome
 
 The analysis revealed which platforms delivered the highest ROAS and which were draining budget with low returns. Recommendations from this project helped reduce wasted ad spend by reallocating budget toward top-performing channels.
+
+## Screenshot
+
+<img width="1275" height="670" alt="image" src="https://github.com/user-attachments/assets/09ee0109-0968-41aa-8d1f-d3fee191e7f6" />
+
